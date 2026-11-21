@@ -4,7 +4,6 @@
 
 An end-to-end Machine Learning project that predicts customer churn in the telecommunications industry using **XGBoost, Scikit-learn, and Streamlit**. The application analyzes customer demographics, account information, subscription details, and service usage patterns to identify customers who are likely to discontinue their telecom services.
 
-The model achieves an **F1-score of 84%**, demonstrating its ability to balance precision and recall when identifying customers who may leave the service.
 
 ## 🚀 Key Features
 
