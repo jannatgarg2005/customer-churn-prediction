@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction
 
-### End-to-End Machine Learning Pipeline | XGBoost · Scikit-learn · Streamlit
+### End-to-End Machine Learning Pipeline | Scikit-learn · Streamlit
 
 An end-to-end Machine Learning project that predicts customer churn in the telecommunications industry using **XGBoost, Scikit-learn, and Streamlit**. The application analyzes customer demographics, account information, subscription details, and service usage patterns to identify customers who are likely to discontinue their telecom services.
 
